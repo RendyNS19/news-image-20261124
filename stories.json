@@ -1,0 +1,89 @@
+{
+  "brief": [
+    "Turkish military helicopter crashes near Eskisehir; all five crew killed.",
+    "Gunmen hold 25 hostage at a Cartagena supermarket; five older women freed.",
+    "Houthi drone hits Riyadh's PIF Tower again; 11 wounded.",
+    "Yemen's military: Houthis 60 km from Aden, ready to attack.",
+    "Malaysia to send 6,500+ Rohingya refugees back to Myanmar.",
+    "Britain and MI5 warn of Russian sabotage against Ukraine's suppliers.",
+    "Trump orders Justice Dept. to speed up federal death sentences."
+  ],
+  "date": "Tuesday, November 24, 2026",
+  "hero": {
+    "body": [
+      "After an 11-week trial, a Brooklyn federal jury found Huawei guilty of deceiving banks over its business in Iran and conspiring to steal trade secrets from American firms.",
+      "Jurors acquitted the company of the two most serious charges — racketeering conspiracy and obstructing justice. The case began in 2018; sentencing is set for 14 September 2027."
+    ],
+    "callout": "10 OF 12 COUNTS  •  SENTENCING 14 SEPT 2027",
+    "deck": "U.S. jury convicts the Chinese tech giant on bank fraud, wire fraud and stealing trade secrets",
+    "headline": "HUAWEI GUILTY",
+    "kicker": "UNITED STATES  •  VERDICT IN BROOKLYN"
+  },
+  "markets": [
+    {
+      "chg": "-0.50%",
+      "name": "S&P 500",
+      "value": "7,201.09"
+    },
+    {
+      "chg": "-1.48%",
+      "name": "NASDAQ",
+      "value": "23,733.54"
+    },
+    {
+      "chg": "+0.85%",
+      "name": "DOW",
+      "value": "50,018.70"
+    },
+    {
+      "chg": "-1.26%",
+      "name": "DAX",
+      "value": "25,017.81"
+    },
+    {
+      "chg": "-0.13%",
+      "name": "FTSE 100",
+      "value": "10,467.07"
+    },
+    {
+      "chg": "+3.91%",
+      "name": "NIKKEI 225",
+      "value": "58,644.63"
+    },
+    {
+      "chg": "+2.27%",
+      "name": "BRENT",
+      "value": "$91.40"
+    }
+  ],
+  "markets_label": "TUESDAY'S CLOSES (24 NOV)",
+  "masthead": "The Daily Ledger",
+  "sources_note": "Stories verified against multiple news sources. Gold omitted — sources disagreed on its close.",
+  "tiles": [
+    {
+      "body": "Iran's Guard says it struck a container ship; tankers hit mines in the strait. Threat level stays 'severe'. Brent jumped to $91.40.",
+      "headline": "TANKERS HIT AS GULF TENSIONS FLARE",
+      "kicker": "STRAIT OF HORMUZ"
+    },
+    {
+      "body": "The Dow rose 0.85% to 50,018.70 on a value rally — even as the Nasdaq slid 1.48% and Nvidia gave back 5.86%.",
+      "headline": "DOW TOPS 50,000 FOR THE FIRST TIME",
+      "kicker": "WALL STREET"
+    },
+    {
+      "body": "An Israeli strike killed Brig. Gen. Naeem Abu Nahel, head of Hamas's internal security service, and six others, medics said.",
+      "headline": "HAMAS SECURITY CHIEF KILLED IN STRIKE",
+      "kicker": "GAZA"
+    },
+    {
+      "body": "The Court of Arbitration for Sport overturned the ruling that gave Morocco the 2025 Africa Cup, restoring Senegal's 1-0 win.",
+      "headline": "SENEGAL'S CROWN RESTORED BY COURT",
+      "kicker": "FOOTBALL"
+    }
+  ],
+  "wide": {
+    "body": "Kyiv acknowledged drone strikes on the Russian cargo ship Sparta II in the Gulf of Finland and on vessels off Libya. An overnight Russian attack on Zaporizhzhia killed two people and wounded 40, including four children.",
+    "headline": "UKRAINE HITS RUSSIAN SHIPS IN TWO SEAS",
+    "kicker": "RUSSIA–UKRAINE WAR"
+  }
+}
